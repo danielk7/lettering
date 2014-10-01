@@ -1,4 +1,18 @@
-/* Your Website Styles */
+/* Lettering Excercise */
+
+
+.char1,
+.char2,
+.char3,
+.char4,
+.char5 {color: red;}
+
+.word2,
+.word4 {color:#f0f;
+letter-spacing: -7px;
+}
+
+
 
 
 /* Show Grid */
